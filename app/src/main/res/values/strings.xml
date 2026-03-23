@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">cartePays</string>
+
+    <string name="nigeria_name">Nigeria</string>
+    <string name="nigeria_capital">Abuja</string>
+    <string name="nigeria_code">NG</string>
+
+    <string name="philippines_name">Philippines</string>
+    <string name="philippines_capital">Manille</string>
+    <string name="philippines_code">PH</string>
+
+    <string name="allemagne_name">Allemagne</string>
+    <string name="allemagne_capital">Berlin</string>
+    <string name="allemagne_code">DE</string>
+
+    <string name="bresil_name">Brésil</string>
+    <string name="bresil_capital">Brasilia</string>
+    <string name="bresil_code">BR</string>
+
+    <string name="canada_name">Canada</string>
+    <string name="canada_capital">Ottawa</string>
+    <string name="canada_code">CA</string>
+
+    <string name="chine_name">Chine</string>
+    <string name="chine_capital">Pékin</string>
+    <string name="chine_code">CN</string>
+
+    <string name="coredusud_name">Corée du Sud</string>
+    <string name="coredusud_capital">Séoul</string>
+    <string name="coredusud_code">KR</string>
+
+    <string name="france_name">France</string>
+    <string name="france_capital">Paris</string>
+    <string name="france_code">FR</string>
+
+    <string name="japon_name">Japon</string>
+    <string name="japon_capital">Tokyo</string>
+    <string name="japon_code">JP</string>
+
+    <string name="uk_name">Royaume-Uni</string>
+    <string name="uk_capital">Londres</string>
+    <string name="uk_code">GB</string>
+</resources>
